@@ -1,0 +1,35 @@
+# Dataset folder
+CNN/Dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Model files (optional - uncomment if you don't want to commit trained models)
+# *.h5
+# *.keras
+# *.pkl
+# *.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
