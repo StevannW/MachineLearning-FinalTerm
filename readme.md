@@ -1,4 +1,4 @@
-# Project Portfolio Summary
+# Project Summary
 
 Repositori ini berisi tiga proyek machine learning dan deep learning yang mencakup berbagai domain analisis data:
 
