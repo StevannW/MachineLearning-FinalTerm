@@ -1,3 +1,5 @@
+Nama  : Stevanus Wahyu Julianto
+NIM   : 1103223025
 # Project Summary
 
 Repositori ini berisi tiga proyek machine learning dan deep learning yang mencakup berbagai domain analisis data:
